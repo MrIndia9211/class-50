@@ -1,0 +1,29 @@
+h1{
+    color: aqua;
+}
+* {
+    border: solid;
+}
+.header{
+    background-color: rgb(233, 121, 164);
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: rgb(233, 220, 43);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(49, 187, 68);
+}
+p,h2{
+    text-align: center;
+}
+.home{
+    background-color: rgb(206, 240, 17);
+    
+}
